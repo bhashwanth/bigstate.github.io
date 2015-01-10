@@ -1,8 +1,8 @@
 ---
-layout: organizer
+layout: post
 title: Nupur Mallik
 author: Nupur Mallik
-organizer: Organizer
+excerpt: Organizer
 ---
 
 ![Nupur Mallik](/img/mnupur.jpg)
