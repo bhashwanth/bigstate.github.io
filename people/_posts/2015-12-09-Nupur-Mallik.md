@@ -2,7 +2,6 @@
 layout: post
 title: Nupur Mallik
 author: Nupur Mallik
-organizer: Co-ordinator
 excerpt: Applied knowledge is power
 ---
 
