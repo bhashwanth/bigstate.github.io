@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: organizer
 title: Nupur Mallik
 author: Nupur Mallik
-organizer: Co-ordinator
-excerpt: Applied knowledge is power
+organizer: Organizer
 ---
 
 ![Nupur Mallik](/img/mnupur.jpg)
